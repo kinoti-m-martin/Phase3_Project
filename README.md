@@ -45,7 +45,7 @@ Data preprocessing was done before modelling, which involved One-Hot Encoding, L
 ## 6. Modelling
 Various modelling techniques were involved, with the aim of accessing the best model. The final model is the XGBoost, which had the best results, of all the other classifier models.
 
-## 7Conclusion and Recommendations
+## 7. Conclusion and Recommendations
 Lastly, following the analysis and modelling results, we drafted the solutions to the business problem that was previously defined.
 
 ## 8. Challenges 
