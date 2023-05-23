@@ -1,6 +1,6 @@
 # Phase3_project
 ## 1. Project Overview
-This project inlves the analysis of the `Traffic Crashes in Chicago`, and obtaining insights on the main contributors to these incidences, as directed by the government.
+This project involves the analysis of the `Traffic Crashes in Chicago`, and obtaining insights on the main contributors to these incidences, as directed by the government.
 
 ## 2. Problem Statement
 The city of Chicago is experiencing an increased number of traffic accidents on its roads, where we are tasked with investigating the causes, and come up effective solutions.
